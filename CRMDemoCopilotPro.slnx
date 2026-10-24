@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FormazioneCRM.Application/FormazioneCRM.Application.csproj" Id="b0b2f680-82ca-4a92-8ed2-d1215612fd34" />
+  <Project Path="FormazioneCRM.Infrastructure/FormazioneCRM.Infrastructure.csproj" Id="e5250e4f-95c5-4ebb-9a1c-ee14e326159c" />
+  <Project Path="FormazioneCRM.Web/FormazioneCRM.Web.csproj" Id="c42fb7a8-0d80-4416-a8aa-b7695aaaf441" />
+</Solution>
